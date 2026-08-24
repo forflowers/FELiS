@@ -1,7 +1,7 @@
-# FELIS
+# FELiS
 ## Framework for Evaluating Life-supporting Environments in Space
 
-FELIS is an independent research project exploring planetary habitability and the environmental conditions that may allow life to exist beyond Earth.
+FELiS is an independent research project exploring planetary habitability and the environmental conditions that may allow life to exist beyond Earth.
 
 The project uses Mars and potentially habitable exoplanets as primary case studies, combining scientific literature, NASA datasets, and computational analysis to investigate how habitability can be evaluated across different planetary environments.
 
@@ -26,7 +26,7 @@ The project uses Mars and potentially habitable exoplanets as primary case studi
 
 ## Data & Resources
 
-FELIS will primarily use publicly available scientific datasets and resources, including:
+FELiS will primarily use publicly available scientific datasets and resources, including:
 
 - NASA Exoplanet Archive
 - NASA Astrobiology resources
